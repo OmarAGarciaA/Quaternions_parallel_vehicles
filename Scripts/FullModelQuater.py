@@ -2,7 +2,7 @@ import numpy as np
 import scipy as sp
 import matplotlib.pyplot as plt
 plt.close("all")
-
+#Comentraior de prueba
 
 
 # Angulos de pitch y roll saturados de manera de no pasar por singularidades. 
